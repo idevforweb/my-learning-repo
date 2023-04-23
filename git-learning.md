@@ -2,7 +2,7 @@
 
 ## Git Commands
 
-' git config –global user.name “[name]” ' ->sets author name
+` git config –global user.name “[name]” ` ->sets author name
 
 git config –global user.email “[email address]” ->sets author email id
 
